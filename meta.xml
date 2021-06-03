@@ -6,4 +6,6 @@
      <script src="server.lua" type="server" />
      <script src="global.lua" type="shared" />
 
+     <!-- jp passou aqui -->
+
 </meta>
